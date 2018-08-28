@@ -2,11 +2,13 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
+			
 		<title>I.N.H.E.R.I.T.E.D</title>
-		
+
 		<meta name="viewport" content="width=device-width, inital-scale=1">
 		<link rel="shortcut icon" href="/img/icon.png">
 		<link rel="stylesheet" href="/css/index.css">
+
 
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
