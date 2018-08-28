@@ -1,0 +1,62 @@
+*{
+ outline: none;
+ -webkit-user-select: none;
+ -moz-user-select:none;
+ user-select: none;
+ -o-transition:.5s;
+ -ms-transition:.5s;
+ -moz-transition:.5s;
+ -webkit-transition:.5s;
+ transition:.5s;
+}
+
+html, body {
+    height:100%;
+} 
+
+body{
+    background-image: linear-gradient(to bottom right, #009fff, #e83e8c);
+}
+
+
+.header{
+
+	height: 18em;
+
+}
+
+#INHERITED{
+ font-family: ORCA;
+ font-size: 48px;
+ padding-top: 75px;
+ color: white;
+ text-align: center;
+}
+
+#DownloadButton{
+ color: white;
+ text-align: center;
+ border-radius: 30px 30px 30px 30px;
+ -webkit-border-radius: 30px 30px 30px 30px;
+ -moz-border-radius: 30px 30px 30px 30px;
+ font-family: Verdana;
+ font-size: 18px;
+ outline: none;
+ border: none;
+ box-shadow: none;
+ }
+
+#DownloadButton:hover{
+ color: gray;
+ outline: none;
+ border: none;
+ box-shadow: none;
+ }
+
+#DownloadButton:active{
+ color: white;
+ outline: none;
+ border: none;
+ box-shadow: none;
+}
+
